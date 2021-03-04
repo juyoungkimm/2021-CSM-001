@@ -12,6 +12,7 @@ Contents:
 
 - 실습과제 수행영상  
 https://youtu.be/2FTpqe2lGWU  
+동영상 하단의 더보기란을 통해 타임라인을 작성했고 server, server(b), client 각각을 확인할 수 있다.  
 </br>
 
 - 문제 발생 및 해결 방법  
