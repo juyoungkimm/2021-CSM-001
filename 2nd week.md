@@ -29,12 +29,12 @@ Contents:
  </br>
 
 - 실습파일  
-첨부파일로 첨부했습니다.   
+첨부파일로 첨부했습니다. https://github.com/juyoungkimm/2021-CSM-001/blob/main/20191464.gzip     
 </br>
 
 - 문제 발생 및 해결 방법  
 __<문제 1>__   
-![이름오류](C:\Users\lia01\Videos\Captures)  
+![이름오류](C:\Users\lia01\Videos\Captures.jpg)  
 그림과 같이 실습과정을 따라하다가 tar.bz2를 두 번 입력해서 다음과 같은 오류가 발생했다.  
 __<해결 1>__ tar.bz2를 두 번 입력해서 해결할 수 있었다.  
   </br>
