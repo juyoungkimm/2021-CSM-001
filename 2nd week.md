@@ -32,8 +32,7 @@ https://github.com/juyoungkimm/2021-CSM-001/blob/main/20191464.gzip
 </br>
 
 **문제 발생 및 해결 방법:**  
-<문제 1>  
-![오류화면](https://github.com/juyoungkimm/2021-CSM-001/issues/1)  
+<문제 1> ![오류화면](https://github.com/juyoungkimm/2021-CSM-001/issues/1)  
 그림과 같이 실습과정을 따라하다가 tar.bz2를 두 번 입력해서 다음과 같은 오류가 발생했다.  
 <해결 1> tar.bz2를 두 번 입력해서 해결할 수 있었다.  
 </br>
